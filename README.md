@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50%">
+    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="30%">
 </p>
 
 ```Python
@@ -41,6 +41,9 @@ class Am:
 <h2 align="center">I love Coding 💻</h2>
 
 ---
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
+
 
 <h4 align="center">Languages & Tools </h4>
 <p align="center">
@@ -52,6 +55,9 @@ class Am:
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 </p>
+
+<!-- in your body -->
+<i class="devicon-python-plain"></i>
 
 <h4 align="center">My Profiles</h4>
 <p align="center">
@@ -68,9 +74,7 @@ class Am:
     <img alt="Paulo Lopes Estevão" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:pl1745240@gmail.com">
   </a>
   
-  <a href="https://www.codewars.com/users/Paulo-Lopes-Estevao/badges/micro">
-    <img alt="Paulo Lopes Estevão" src="https://www.codewars.com/users/Paulo-Lopes-Estevao/badges/micro">
-  </a>
+
 </p>
 
 <!--
