@@ -32,13 +32,28 @@ class Am:
         frequent= self.Skills()
         frequent['backend']
 
-                                                                # Paulo Lopes Estevão
+                                                                                      # Paulo Lopes Estevão
 
 
 ```
 
 
 <h2 align="center">I love Coding 💻</h2>
+
+<a align="center" href="https://arshiamidos.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lopes-Estevao&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lopes-Estevao&layout=compact&theme=dracula" alt="languages" height="170">
+    </p>
+</a>
+
+<!-- thropy -->
+<p align="center">
+<a href="https://arshiamidos.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Paulo-Lopes-Estevao&column=7&theme=dracula" />
+    </p>
+</a>
+</p>
 
 ---
 <!-- in your header -->
