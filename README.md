@@ -56,13 +56,9 @@ class Am:
 </p>
 
 ---
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
-
-<!-- in your body -->
 
 
-<h4 align="center">Languages & Tools <i class="devicon-python-plain"></i></h4>
+<!--h4 align="center">Languages & Tools <i class="devicon-python-plain"></i></h4>
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/python/pytho-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
@@ -71,7 +67,7 @@ class Am:
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-</p>
+</p-->
 
 
 
