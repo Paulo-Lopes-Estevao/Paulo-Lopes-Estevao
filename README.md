@@ -7,7 +7,7 @@ class Am:
     USERNAME = 'Paulo-Lopes-Estevao'
     NAME = 'Paulo Lopes Estevão'
     EMAIL = 'pl1745240@gmail.com'
-    LINKEDIN = '/in/paulolopesestevão'
+    LINKEDIN = '[/in/paulolopesestevão](https://www.linkedin.com/in/paulo-lopes-estev%C3%A3o-7a70881b4/)'
 
     def Skills(self):
         CODE = dict(
@@ -40,34 +40,20 @@ class Am:
 
 <h2 align="center">I love Coding 💻</h2>
 
-<a align="center" href="https://arshiamidos.github.io">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Lopes-Estevao&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lopes-Estevao&layout=compact&theme=dracula" alt="languages" height="170">
-    </p>
-</a>
-
-<!-- thropy -->
-<p align="center">
-<a href="https://arshiamidos.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Paulo-Lopes-Estevao&column=7&theme=dracula" />
-    </p>
-</a>
-</p>
-
 ---
 
 
-<!--h4 align="center">Languages & Tools <i class="devicon-python-plain"></i></h4>
+<h4 align="center">Languages & Tools <i class="devicon-python-plain"></i></h4>
 <p align="center">
-<img src="https://devicon.dev/devicon.git/icons/python/pytho-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-</p-->
+</p>
 
 
 
@@ -78,8 +64,8 @@ class Am:
     <img alt="Paulo Lopes Estevão" src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/paulodoposter.poster.1">
   </a>
 
-  <a href="https://www.linkedin.com/in/paulo-lopes-estevão/">
-    <img alt="Paulo Lopes Estevão" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-lopes-estevão/">
+  <a href="https://www.linkedin.com/in/paulo-lopes-estev%C3%A3o-7a70881b4/">
+    <img alt="Paulo Lopes Estevão" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-lopes-estev%C3%A3o-7a70881b4/">
   </a>
   
   <a href="mailto:pl1745240@gmail.com">
