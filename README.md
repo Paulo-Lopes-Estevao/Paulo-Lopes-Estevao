@@ -45,8 +45,9 @@ class Am:
 
 <h4 align="center">Languages & Tools <i class="devicon-python-plain"></i></h4>
 <p align="center">
+
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="25px" height="25px"/>
+<img src="file_type_docker_icon_130643.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
