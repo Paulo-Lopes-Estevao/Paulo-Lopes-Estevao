@@ -46,11 +46,21 @@ class Am:
 <h4 align="center">Languages & Tools <i class="devicon-python-plain"></i></h4>
 <p align="center">
 
-<img src="python.svg" width="35px" height="35px"/>
-<img src="file_type_docker_icon_130643.svg" width="35px" height="35px"/>
-<img src="javascript.svg" width="35px" height="35px"/>
-<img src="vue.svg" width="35px" height="35px"/>
-<img src="git-icon.svg" width="35px" height="35px"/>
+<img src="python.svg" width="40px" height="40px"/>
+<img src="php.svg" width="40px" height="40px"/>
+<img src="javascript.svg" width="40px" height="40px"/>
+<img src="file_type_docker_icon_130643.svg" width="40px" height="40px">
+<img src="graphql-icon.svg" width="40px" height="40px"/>
+<img src="rest-api.svg" width="40px" height="40px"/>
+<img src="iconfinder_laravel_1006880.svg" width="40px" height="40px"/>
+<img src="file_type_kivy_icon_130489.svg" width="40px" height="40px"/>
+<img src="git-icon.svg" width="40px" height="40px"/>
+<img src="logotipo-do-github.svg" width="40px" height="40px"/>
+<img src="getpostman-icon.svg" width="40px" height="40px"/>
+<img src="vue.svg" width="40px" height="40px"/>
+<img src="mysql-official.svg" width="40px" height="40px"/>
+<img src="postgresql-icon.svg" width="40px" height="40px"/>
+<img src="sqlite-icon.svg" width="40px" height="40px"/>
 </p>
 
 
