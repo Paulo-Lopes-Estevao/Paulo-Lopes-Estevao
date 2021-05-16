@@ -83,11 +83,20 @@ class Am:
 
 </p>
 
+<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lopes-Estevao&layout=compact)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats)
+
+
+<div style="width:25rem;">
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/?username=Paulo-Lopes-Estevao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats)
 
-<div/>
+
+</div>
+
+</div>
 
 
 ### To contribute to open source 🙂
