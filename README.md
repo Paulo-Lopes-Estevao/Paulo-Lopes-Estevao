@@ -83,11 +83,7 @@ class Am:
 
 </p>
 
-<!--
- - End poverty in the word with technology 
- - Solving social problems with technology
- - Better technological advancement in the word
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lopes-Estevao&layout=compact)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats)
 
 ### To contribute to open source 🙂
 ### Teamwork 💻
