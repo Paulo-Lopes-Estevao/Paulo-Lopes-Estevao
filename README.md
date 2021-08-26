@@ -101,3 +101,4 @@ class Am:
 
 ### To contribute to open source 🙂
 ### Teamwork 💻
+![](https://visitor-badge.glitch.me/badge?page_id=Paulo-Lopes-Estevao.Paulo-Lopes-Estevao)
