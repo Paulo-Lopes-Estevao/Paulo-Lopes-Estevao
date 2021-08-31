@@ -11,10 +11,10 @@ class Am:
 
     def Skills(self):
         CODE = dict(
-            backend= ['Python', 'PHP', 'Laravel','],
+            backend= ['Python', 'PHP', 'Golang','],
             frontend= ['HTML', 'CSS', 'JavaScript', 'Metro UI Css', 'Boostrap', 'Vuejs'],
-            architecture= ['MVC', 'REST'],
-            database= ['PostgreSQL', 'MySQL'],
+            architecture= ['MVC', 'Clean Architeture', 'Architeture Horzagonal'],
+            database= ['PostgreSQL', 'MySQL','SQlite],
             tools= ['VSCode', 'PyCharm', 'git', 'GitHub', 'heroku', 'postman'],
             so= ['Linux']
         )
