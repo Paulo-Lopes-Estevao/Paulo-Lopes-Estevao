@@ -46,21 +46,27 @@ class Am:
 <h4 align="center">Languages & Tools <i class="devicon-python-plain"></i></h4>
 <p align="center">
 
-<img src="python.svg" width="40px" height="40px"/>
-<img src="php.svg" width="40px" height="40px"/>
-<img src="javascript.svg" width="40px" height="40px"/>
-<img src="file_type_docker_icon_130643.svg" width="40px" height="40px">
-<img src="graphql-icon.svg" width="40px" height="40px"/>
-<img src="rest-api.svg" width="40px" height="40px"/>
-<img src="iconfinder_laravel_1006880.svg" width="40px" height="40px"/>
-<img src="file_type_kivy_icon_130489.svg" width="40px" height="40px"/>
-<img src="git-icon.svg" width="40px" height="40px"/>
-<img src="logotipo-do-github.svg" width="40px" height="40px"/>
-<img src="getpostman-icon.svg" width="40px" height="40px"/>
-<img src="vue.svg" width="40px" height="40px"/>
-<img src="mysql-official.svg" width="40px" height="40px"/>
-<img src="postgresql-icon.svg" width="40px" height="40px"/>
-<img src="sqlite-icon.svg" width="40px" height="40px"/>
+<img src="skilz/golang_logo_icon_171073 (1).ico" width="60px" height="60px"/>
+<img src="skilz/python.svg" width="40px" height="40px"/>
+<img src="skilz/php.svg" width="40px" height="40px"/>
+<img src="skilz/javascript.svg" width="40px" height="40px"/>
+<img src="skilz/docker.svg" width="40px" height="40px">
+<img src="skilz/graphql-icon.svg" width="40px" height="40px"/>
+<img src="skilz/rest-api.svg" width="40px" height="40px"/>
+<img src="skilz/iconfinder_laravel_1006880.svg" width="40px" height="40px"/>
+<img src="skilz/file_type_kivy_icon_130489.svg" width="40px" height="40px"/>
+<img src="skilz/git-icon.svg" width="40px" height="40px"/>
+<img src="skilz/logotipo-do-github.svg" width="40px" height="40px"/>
+<img src="skilz/getpostman-icon.svg" width="40px" height="40px"/>
+<img src="skilz/vue.svg" width="40px" height="40px"/>
+<img src="skilz/mysql-official.svg" width="40px" height="40px"/>
+<img src="skilz/postgresql-icon.svg" width="40px" height="40px"/>
+<img src="skilz/sqlite-icon.svg" width="40px" height="40px"/>
+<img src="skilz/ubuntu-seeklogo.com.svg" width="40px" height="40px"/>
+<img src="skilz/favicon (1).png" width="40px" height="40px"/>
+<img src="skilz/argo-horizontal-color.svg" width="80px" height="40px"/>
+<img src="skilz/1200px-Jenkins_logo.svg.png" width="50px" height="40px"/>
+<img src="skilz/Terraform_Logo.svg.png" width="120px" height="40px"/>
 </p>
 
 
