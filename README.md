@@ -91,6 +91,7 @@ class Am:
 <a href="https://github.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </a>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
 <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
