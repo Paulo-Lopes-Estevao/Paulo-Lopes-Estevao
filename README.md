@@ -52,17 +52,33 @@ class Am:
 <a href="https://python.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://php.org/" target="_blank">
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
+</a>
+          <a href="https://php.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40" />
+</a>
+<a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="php" width="40" height="40"/>
 </a>
 <a href="https://javascript.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="40" height="40" />  
 <a href="https://docker.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://graphql.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+</a>
+<a href="">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" />
+</a>
+<a href="">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />
 </a>
 <img src="skilz/rest-api.svg" width="40px" height="40px"/>
 <a href="https://laravel.org/" target="_blank">
@@ -78,11 +94,11 @@ class Am:
 <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-    <br/>
-    <br/>
 <a href="https://vue.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40" />
+          
 <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     </a>
@@ -99,12 +115,15 @@ class Am:
 <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
+<a href=""> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"  width="40" height="40" />
+</a>
 <a href="https://kubernetes.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 </a>
-<img src="skilz/argo-horizontal-color.svg" width="80px" height="40px"/>
+<img src="https://camo.githubusercontent.com/3b1275bbdf7bcfed2d597cb07ef0c5075fca7d48e6abd554ecf6a0ccee5b7aed/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f7261626269746d712d3238323239362e706e67" width="40px" height="40px"/>
 <a href="https://jenkins.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
 </a>
 <img src="skilz/Terraform_Logo.svg.png" width="120px" height="40px"/>
 </p>
@@ -120,6 +139,8 @@ class Am:
   <a href="https://www.linkedin.com/in/paulo-lopes-estev%C3%A3o-7a70881b4/">
     <img alt="Paulo Lopes Estevão" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-lopes-estev%C3%A3o-7a70881b4/">
   </a>
+
+          
   
   <a href="mailto:pl1745240@gmail.com">
     <img alt="Paulo Lopes Estevão" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:pl1745240@gmail.com">
