@@ -109,6 +109,9 @@ class Am:
 <img src="skilz/Terraform_Logo.svg.png" width="120px" height="40px"/>
 </p>
 
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
+
+<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
 
 
 <h4 align="center">My Profiles</h4>
