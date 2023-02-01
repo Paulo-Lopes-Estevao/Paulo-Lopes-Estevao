@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">I love Coding 💻</h2>
+<h2 align="center">Coding 💻</h2>
 
 ---
 
