@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/40029512/212558846-bc92f10b-0051-4e9a-8cd2-309f5e61e319.gif" width="30%">
+    <img src="https://user-images.githubusercontent.com/40029512/212558846-bc92f10b-0051-4e9a-8cd2-309f5e61e319.gif" width="50%">
 </p>
 
 
@@ -12,7 +12,7 @@
 <p align="center">
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,aws,php,python,redis,laravel" />
+    <img src="https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,aws,php,python,redis,laravel,dart,js,nodejs,fastapi,grafana,prometheus,heroku,nginx,nestjs,netlify,postman,rabbitmq,regex,supabase,selenium,sentry,ts,vercel,visualstudio,vscode,apollo,ansible,azure,bash,cmake,django,dotnet,dynamodb,express,flask,graphql,jenkins,jest,kafka,kubernetes,prisma" />
  </a>
     
 </p> 
@@ -45,7 +45,7 @@
 <div style="width:25rem;">
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/?username=Paulo-Lopes-Estevao&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/?username=Paulo-Lopes-Estevao&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats) -->
 
 
 </div>
