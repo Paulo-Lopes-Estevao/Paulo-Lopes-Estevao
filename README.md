@@ -8,14 +8,14 @@
 ---
 
 
-<h4 align="center">My Skills<i class="devicon-python-plain"></i></h4>
-<p align="center">
+<!--h4 align="center">My Skills<i class="devicon-python-plain"></i></h4-->
+<!--p align="center">
 
- <!--a href="https://skillicons.dev">
+ <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,aws,php,python,redis,laravel,dart,js,nodejs,fastapi,grafana,prometheus,heroku,nginx,nestjs,netlify,postman,rabbitmq,regex,supabase,selenium,sentry,ts,vercel,visualstudio,vscode,apollo,ansible,azure,bash,cmake,django,dotnet,dynamodb,express,flask,graphql,jenkins,jest,kafka,kubernetes,prisma" />
- </a-->
+ </a>
     
-</p> 
+</p--> 
 
 <h4 align="center">My Profiles</h4>
 <p align="center">
