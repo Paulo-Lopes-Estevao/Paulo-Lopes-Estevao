@@ -11,9 +11,9 @@
 <h4 align="center">My Skills<i class="devicon-python-plain"></i></h4>
 <p align="center">
 
- <a href="https://skillicons.dev">
+ <!--a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,aws,php,python,redis,laravel,dart,js,nodejs,fastapi,grafana,prometheus,heroku,nginx,nestjs,netlify,postman,rabbitmq,regex,supabase,selenium,sentry,ts,vercel,visualstudio,vscode,apollo,ansible,azure,bash,cmake,django,dotnet,dynamodb,express,flask,graphql,jenkins,jest,kafka,kubernetes,prisma" />
- </a>
+ </a-->
     
 </p> 
 
@@ -39,10 +39,10 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lopes-Estevao&layout=compact)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lopes-Estevao&layout=compact)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats) 
 
 
-<div style="width:25rem;">
+<div style="width:25rem;" -->
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/?username=Paulo-Lopes-Estevao&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Paulo-Lopes-Estevao/github-readme-stats) -->
